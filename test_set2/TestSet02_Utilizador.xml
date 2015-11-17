@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaUtilizadores>
+    <NumeroElementos>12</NumeroElementos>
+    <Utilizadores>
+        <Utilizador>
+            <Username>hulk@marvel.com</Username>
+            <Nome>Hulk</Nome>
+            <Email>hulk@marvel.com</Email>
+            <Password>NFN;green.man</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>thing@marvel.com</Username>
+            <Nome>The Thing</Nome>
+            <Email>thing@marvel.com</Email>
+            <Password>NFN;stony.and.big.123</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>elastigirl</Username>
+            <Nome>Helen Parr</Nome>
+            <Email>elastigirl@disney.com</Email>
+            <Password>NFN;str-ech</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>mickey</Username>
+            <Nome>Mickey Mouse</Nome>
+            <Email>mickey@disney.com</Email>
+            <Password>NFN;cheese</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>superduck</Username>
+            <Nome>Super Duck</Nome>
+            <Email>super.duck@disney.com</Email>
+            <Password>NFN;donald!007</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>wolverine</Username>
+            <Nome>Logan</Nome>
+            <Email>wolverine@marvel.com</Email>
+            <Password>NFN;nail.cutter</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>doris</Username>
+            <Nome>Doris Brodeur</Nome>
+            <Email>cdio2013@mit.edu</Email>
+            <Password>NFN;lobster</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>revere@harvard.edu</Username>
+            <Nome>Paul Revere</Nome>
+            <Email>revere@harvard.edu</Email>
+            <Password>NFN;teaparty</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>fortin</Username>
+            <Nome>Clement Fortin</Nome>
+            <Email>cdio2010@polymtl.ca</Email>
+            <Password>NFN;top.of.the-hill</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>mccartan</Username>
+            <Nome>Charles McCartan</Nome>
+            <Email>c.mccartan@qub.ac.uk</Email>
+            <Password>NFN;fish!and-chips</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>ghiringhelli</Username>
+            <Nome>Gian Luca Ghiringhelli</Nome>
+            <Email>ghiringhelli@polimi.it</Email>
+            <Password>NFN;pasta</Password>
+        </Utilizador>
+        <Utilizador>
+            <Username>amm@isep.ipp.pt</Username>
+            <Nome>Angelo Martins</Nome>
+            <Email>amm@isep.ipp.pt</Email>
+            <Password>NFN;nao.sei</Password>
+        </Utilizador>
+    </Utilizadores>
+</ListaUtilizadores>

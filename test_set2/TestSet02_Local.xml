@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaLocais>
+    <NumElementos>1</NumElementos>
+    <Locais>
+        <Local>
+            <LocalID>1</LocalID>
+            <Designacao>Porto, PT</Designacao>
+        </Local>
+    </Locais>
+</ListaLocais>

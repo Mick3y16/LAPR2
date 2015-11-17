@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaEventos>
+    <NumeroEventos>1</NumeroEventos>
+    <Eventos>
+        <Evento>
+            <Titulo>CDIO 2013</Titulo>
+            <Descricao>9th International CDIO Conference</Descricao>
+            <DataInicio>2013/6/9</DataInicio>
+            <DataFim>2013/6/13</DataFim>
+            <DataInicioSubmissao>2012/11/1</DataInicioSubmissao>
+            <DataFimSubmissao>2013/1/6</DataFimSubmissao>
+            <DataInicioDistribuicao>2013/1/7</DataInicioDistribuicao>
+            <DataLimiteRevisao>2013/3/18</DataLimiteRevisao>
+            <DataLmiteSubmissaoFinal>2013/4/14</DataLmiteSubmissaoFinal>
+            <EstadoEvento>EventoSessoesTematicasDefinidasState</EstadoEvento>
+            <Local>1</Local>
+            <ListaOrganizadores>
+                <NumeroOrganizadores>2</NumeroOrganizadores>
+                <Organizadores>
+                    <Organizador>doris</Organizador>
+                    <Organizador>revere@harvard.edu</Organizador>
+                </Organizadores>
+            </ListaOrganizadores>
+            <CP>
+                <NumeroMembrosCP>3</NumeroMembrosCP>
+                <MembrosCP>
+                    <MembroCP>doris</MembroCP>
+                    <MembroCP>revere@harvard.edu</MembroCP>
+                    <MembroCP>fortin</MembroCP>
+                </MembrosCP>
+            </CP>
+            <ListaSessoesTematicas>
+                <NumeroSessoesTematicas>1</NumeroSessoesTematicas>
+                <SessoesTematicas>
+                    <SessaoTematica>
+                        <CodigoST>CDIO09-CA</CodigoST>
+                        <DescricaoST>Bla, bla, bla...</DescricaoST>
+                        <DataInicio>2013/6/10</DataInicio>
+                        <DataFim>2013/6/12</DataFim>
+                        <DataInicioSubmissao>2012/11/2</DataInicioSubmissao>
+                        <DataFimSubmissao>2013/1/7</DataFimSubmissao>
+                        <DataInicioDistribuicao>2013/1/8</DataInicioDistribuicao>
+                        <DataLimiteRevisao>2013/3/19</DataLimiteRevisao>
+                        <DataLmiteSubmissaoFinal>2013/4/15</DataLmiteSubmissaoFinal>
+                        <EstadoST>SessaoTematicaRegistadaState</EstadoST>
+                        <ListaProponentes>
+                            <NumeroProponentes>1</NumeroProponentes>
+                            <Proponentes>
+                                <Proponente>fortin</Proponente>
+                            </Proponentes>
+                        </ListaProponentes>
+                        <CPSessao>
+                            <NumeroMembrosCPST>4</NumeroMembrosCPST>
+                            <MembrosCPSessao>
+                                <MembroCPSessao>hulk@marvel.com</MembroCPSessao>
+                                <MembroCPSessao>thing@marvel.com</MembroCPSessao>
+                                <MembroCPSessao>elastigirl</MembroCPSessao>
+                                <MembroCPSessao>superduck</MembroCPSessao>
+                            </MembrosCPSessao>
+                        </CPSessao>
+                        <ListaSubmissoes>
+                            <NumeroSubmissoes>0</NumeroSubmissoes>
+                            <Submissoes/>
+                        </ListaSubmissoes>
+                    </SessaoTematica>
+                </SessoesTematicas>
+            </ListaSessoesTematicas>
+            <ListaSubmissoesEvento>
+                <NumeroSubmissoes>0</NumeroSubmissoes>
+                <Submissoes/>
+            </ListaSubmissoesEvento>
+        </Evento>
+    </Eventos>
+</ListaEventos>
